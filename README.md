@@ -57,10 +57,7 @@
   * [Dart](#dart)
   * [Elixir](#elixir)
   * [Erlang](#erlang)
-  * [Fortran](#fortran)
   * [Go](#go)
-  * [Groovy](#groovy)
-  * [Haskell](#haskell)
   * [iOS](#ios)
   * [Java](#java)
   * [JavaScript](#javascript)
@@ -69,11 +66,9 @@
   * [Lua](#lua)
   * [OCaml](#OCaml)
   * [Perl](#perl)
-  * [PHP](#php)
-  * [Prolog](#prolog)
+  * [PHP](#php
   * [Python](#python)
   * [R](#r)
-  * [Ruby](#ruby)
   * [Rust](#rust)
   * [Scala](#scala)
   * [Shell](#shell)
@@ -326,6 +321,8 @@
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
 * [笨办法学C](https://github.com/wizardforcel/lcthw-zh)
+* [《C++ 并发编程指南》](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
+* [Algorithms & Data Structures in C++](https://github.com/xtaci/algorithms)
 
 ### C&#35;
 
@@ -365,9 +362,7 @@
 
 * [21天学通Erlang](http://xn--21erlang-p00o82pmp3o.github.io/)
 
-### Fortran
 
-* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
 
 ### Go
 
@@ -388,14 +383,9 @@
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
 * [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
 
-### Groovy
 
-* [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
 
-### Haskell
 
-* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
 
 ### iOS
 
@@ -510,20 +500,9 @@
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
-### LaTeX
 
-* [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
-* [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
 
-### LISP
-* Common Lisp
-    * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
-    * [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
-* Scheme
-    * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
-    * [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
-    * Racket
-        * [Racket book](https://github.com/tyrchen/racket-book)
+
 
 ### Lua
 
@@ -541,32 +520,8 @@
 * [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
 * [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
 
-### PHP
 
-* [PHP 官方手册](http://php.net/manual/zh/)
-* [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
-* PHP之道：php-the-right-way ([@wulijun版](http://wulijun.github.io/php-the-right-way/) [PHPHub版](http://laravel-china.github.io/php-the-right-way/))
-* [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
-* [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/content/)
-* [深入理解PHP内核](https://github.com/reeze/tipi)
-* [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
-* [Laravel5.1 中文文档](http://laravel-china.org/docs/5.1)
-* [Laravel 5.1 LTS 速查表](https://cs.phphub.org/)
-* [Symfony2 Cookbook 中文版](http://wiki.jikexueyuan.com/project/symfony-cookbook/)(版本 2.7.0 LTS)
-* [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
-* [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc)
-* [深入理解 Yii 2.0](http://www.digpage.com/)
-* [Yii 框架中文文檔](http://www.yiichina.com/)
-* [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
-* [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
-* [Composer 中文网](http://www.phpcomposer.com)
-* [Slim 中文文档](http://ww1.minimee.org/php/slim)
-* [Lumen 中文文档](http://lumen.laravel-china.org/)
-* [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
 
-### Prolog
-
-* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
 
 ### Python
 
@@ -648,20 +603,7 @@
 
 * [R语言忍者秘笈](https://github.com/yihui/r-ninja)
 
-### Ruby
 
-* [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
-* [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [笨方法學 Ruby](http://lrthw.github.io/)
-* [Ruby on Rails 指南](http://guides.ruby-china.org/)
-* [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/index.html)
-* [Ruby on Rails Tutorial 原书第 3 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
-* [Rails 实践](http://rails-practice.com/content/index.html)
-* [Rails 5 开发进阶(Beta)](https://www.gitbook.com/book/kelby/rails-beginner-s-guide/details)
-* [Rails 102](https://www.gitbook.com/book/rocodev/rails-102/details)
-* [编写Ruby的C拓展](https://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
-* [Ruby 源码解读](https://ruby-china.org/topics/22386)
-* [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
 
 ### Rust
 
