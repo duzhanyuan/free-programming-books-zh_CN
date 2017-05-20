@@ -323,6 +323,7 @@
 * [笨办法学C](https://github.com/wizardforcel/lcthw-zh)
 * [《C++ 并发编程指南》](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [Algorithms & Data Structures in C++](https://github.com/xtaci/algorithms)
+* [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 
 ### C&#35;
 
